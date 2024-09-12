@@ -1,13 +1,13 @@
 {
   "name": "react-native-asymmetric-image-grid",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple react native component to display images in an asymmetric grid",
   "main": "index.ts",
   "types": "index.d.ts",
   "scripts": {
     "build": "tsc -p tsconfig.build.json"
   },
-  "author": "Muhtalip Dede <muhtalipdede@gmail.com> (https://muhtalipdede.github.io)",
+  "author": "Muhtalip Dede <muhtalipdede@gmail.com> (https://muhtalipdede.github.io), Yusuf Talha Ataş (https://github.com/yusuftalhaatas)",
   "homepage": "https://www.npmjs.com/package/react-native-asymmetric-image-grid",
   "repository": {
     "type": "git",
