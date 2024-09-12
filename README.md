@@ -17,15 +17,13 @@ import AsymmetricImageGrid from 'react-native-asymmetric-image-grid';
 
 <AsymmetricImageGrid
   images={[
-    { uri: 'https://example.com/image1.jpg' },
-    { uri: 'https://example.com/image2.jpg' },
-    { uri: 'https://example.com/image3.jpg' },
-    { uri: 'https://example.com/image4.jpg' },
-    { uri: 'https://example.com/image5.jpg' },
-    { uri: 'https://example.com/image6.jpg' },
-    { uri: 'https://example.com/image7.jpg' },
-    { uri: 'https://example.com/image8.jpg' },
-    { uri: 'https://example.com/image9.jpg' },
+    'https://example.com/image1.jpg',
+    'https://example.com/image2.jpg',
+    'https://example.com/image3.jpg',
+    'https://example.com/image4.jpg',
+    'https://example.com/image5.jpg',
+    'https://example.com/image6.jpg',
+    'https://example.com/image7.jpg',
   ]}
 />
 ```

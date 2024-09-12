@@ -1,6 +1,6 @@
 {
   "name": "react-native-asymmetric-image-grid",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple react native component to display images in an asymmetric grid",
   "main": "index.ts",
   "types": "index.d.ts",
